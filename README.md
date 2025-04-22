@@ -9,7 +9,7 @@ This repository contains various shader programs designed for graphics rendering
 ## Author
 
 - **Name**: Dharmesh
-- **GitHub Profile**: [Dharmesh](https://github.com/Dharmesh-IT) _(Replace with your actual GitHub profile link)_
+- **GitHub Profile**: [Dharmesh](https://github.com/Dharmesh-IT) 
 
 ## Features
 
