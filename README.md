@@ -36,15 +36,14 @@ You can use shaders to customize the appearance of your Windows Terminal by appl
 {
   "profiles": {
     "list": [
+
       {
-        "name": "MyShaders Profile",
-        "commandline": "cmd.exe",
-        "startingDirectory": "%USERPROFILE%",
-        "backgroundImage": "path/to/your/shader/output.png",
-        "backgroundImageOpacity": 0.8,
-        "backgroundImageStretchMode": "fill"
-      }
-    ]
+        "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
+        "hidden": false,
+        "name": "PowerShell",
+        "source": "Windows.Terminal.PowershellCore",
+        "experimental.pixelShaderPath": "your\\path\\Matrix.hlsl"
+      },
   }
 }
 ```
