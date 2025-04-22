@@ -9,7 +9,7 @@ This repository contains various shader programs designed for graphics rendering
 ## Author
 
 - **Name**: Dharmesh
-- **GitHub Profile**: [Dharmesh](https://github.com/Dharmesh) _(Replace with your actual GitHub profile link)_
+- **GitHub Profile**: [Dharmesh](https://github.com/Dharmesh-IT) _(Replace with your actual GitHub profile link)_
 
 ## Features
 
@@ -21,7 +21,7 @@ This repository contains various shader programs designed for graphics rendering
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Dharmesh/myshaders.git
+   git clone https://github.com/Dharmesh-IT/myshaders.git
    ```
 2. Explore the shaders and integrate them into your projects.
 
